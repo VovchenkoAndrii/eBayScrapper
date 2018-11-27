@@ -8,7 +8,7 @@ import urllib.request, os
 import csv
 
 #eBay client id
-appID = 'JackShea-JavaTest-PRD-e8e35c535-341cd347'
+appID = ''
 
 idArray = []
 
